@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">ZodiacApp</string>
+    <string name="aries">\tName: Aries\n\n\tDescription:\n\tCourageous and Energetic\n\n\t
+        Symbol: Ram\n\n\tMonth: April</string>
+
+    <string name="taurus">\tName: Taurus\n\n\tDescription:\n\tKnown for being reliable, \n\tpractical,
+        ambitious and \n\tsensual\n\n\tSymbol: Bull\n\n\tMonth: May</string>
+
+    <string name="gemini">\tName: Gemini\n\n\tDescription:\n\tGemini-born are clever and \n\tintellectual
+        \n\n\tSymbol: Twins\n\n\tMonth: June</string>
+
+    <string name="cancer">\tName: Cancer\n\n\tDescription:\n\tTenacious, loyal and \n\tsympathetic
+        \n\n\tSymbol: Crab\n\n\tMonth: July</string>
+
+    <string name="leo">\tName: Leo\n\n\tDescription:\n\tWarm, action-oriented and \n\tdriven by
+        the desire to be \n\tloved and admired\n\n\tSymbol: Lion\n\n\tMonth: August</string>
+
+    <string name="virgo">\tName: Virgo\n\n\tDescription:\n\tMethodical, meticulous,
+        \n\tanalytical and mentally \n\tastute\n\n\tSymbol: Virgin\n\n\tMonth: September</string>
+
+    <string name="libra">\tName: Libra\n\n\tDescription:\n\tLibrans are famous for \n\tmaintaining
+        balance and \n\tharmony\n\n\tSymbol: Scales\n\n\tMonth: October</string>
+
+    <string name="scorpio">\tName: Scorpio\n\n\tDescription:\n\tStrong willed and \n\tmysterious
+        \n\n\tSymbol: Scorpion\n\n\tMonth: November</string>
+
+    <string name="sagittarius">\tName: Sagittarius\n\n\tDescription:\n\tBorn adventurers\n\n\t
+        Symbol: Archer\n\n\tMonth: December</string>
+
+    <string name="capricorn">\tName: Capricorn\n\n\tDescription:\n\tThe most determined sign
+        \n\tin the Zodiac\n\n\tSymbol: Goat\n\n\tMonth: January</string>
+
+    <string name="aquarius">\tName: Aquarius\n\n\tDescription:\n\tHumanitarians to the core\n\n\t
+        Symbol: Water Bearer\n\n\tMonth: February</string>
+
+    <string name="pisces">\tName: Pisces\n\n\tDescription:\n\tProverbial dreamers of the \n\tZodiac
+        \n\n\tSymbol: Fish\n\n\tMonth: March</string>
 </resources>
