@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599022530252",
+    "project_id": "zodiacapp-dd6e2",
+    "storage_bucket": "zodiacapp-dd6e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599022530252:android:b4d7c1bcfc43541de81c69",
+        "android_client_info": {
+          "package_name": "com.example.zodiacapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599022530252-ntsgc6rqenlkvg1g5idgib2f0hr963i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0J57Mr0tXXFsMlRc86r_lF-dPoGMgWkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599022530252-ntsgc6rqenlkvg1g5idgib2f0hr963i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
